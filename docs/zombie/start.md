@@ -466,7 +466,7 @@ Kibana 爆破, 与 tomcat 类似, 设置了默认的账号密码字典, 简化�
 
 爆破 MongoDB 密码
 
-`zombie -s mongodb -I ip.txt -u admin -P pwd.txt`
+`zombie -s mongo -I ip.txt -u admin -P pwd.txt`
 
 #### Postgre
 
